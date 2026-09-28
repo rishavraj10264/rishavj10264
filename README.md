@@ -1,162 +1,166 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Rishav Raj
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:7B2FF7&height=200&section=header&text=Rishav%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&descSize=17"/>
 
-### 🚀 AI & Machine Learning Engineer | Python Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;AI+%26+ML+Developer+in+Progress+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Solutions;Exploring+Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning;Turning+Ideas+Into+Real+Projects" />
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rishavj10264&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rishavj10264?label=Followers&style=for-the-badge&color=blue" />
-</p>
+<a href="https://github.com/rishavj10264">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=rishavj10264&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/rishavj10264?style=for-the-badge&color=00D9FF&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍🚀 About Me
 
 ```python
-class Developer:
+class RishavRaj:
+
     def __init__(self):
         self.name = "Rishav Raj"
-        self.role = "AI & ML Undergraduate"
+        self.education = "B.Tech CSE (AI & ML)"
         self.location = "Ranchi, India"
-        self.languages = ["Python", "Java", "C"]
+        self.languages = ["Python", "Java"]
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
             "Data Science"
         ]
-        self.currently_learning = "Advanced AI & ML"
+        self.goal = "Building impactful AI solutions"
 
-    def say_hi(self):
-        print("Let's build something amazing!")
+    def introduce(self):
+        return "Learning today, innovating tomorrow 🚀"
 
-me = Developer()
-me.say_hi()
+me = RishavRaj()
+print(me.introduce())
 ```
-
-- 🎓 B.Tech Computer Science (AI & ML)
-- 🔭 Working on AI-powered applications
-- 🌱 Exploring Machine Learning & Deep Learning
-- 💡 Interested in solving real-world problems
-- 🤝 Open to internships and collaborations
-- ⚡ Believe in learning by building
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 💻 My Programming Languages
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1E293B"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1E293B"/>
 
-### 🤖 AI / Machine Learning
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-</p>
+## 🤖 AI & ML Arsenal
 
-### 🌐 Development & Tools
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,git,github,vscode&theme=dark"/>
 
-### 🏅 Technology Badges
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-Expert%20in%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-Exploring-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Machine%20Learning-Explorer-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Enthusiast-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Innovator-00BFFF?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. AI Travel Planner MCP
-AI-powered travel planning project.
+<table>
+<tr>
+<td width="50%">
 
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rishavj10264/AI-Travel-Planner-MCP)
+### ✈️ AI Travel Planner MCP
 
-### 2. Agricultural Market Price Forecasting
-Machine Learning-based agricultural price prediction.
+AI-powered travel planning application.
 
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rishavj10264/Agricultural-Market-Price-Forecasting-System)
+[![Explore](https://img.shields.io/badge/Explore_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rishavj10264/AI-Travel-Planner-MCP)
 
-### 3. Transactional Library Management System
-Java, JDBC and database transaction implementation.
+</td>
+<td width="50%">
 
-[![Repository](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/rishavj10264/Design-and-Implementation-of-a-Transactional-Library-Management-System-using-JDBC)
+### 🌾 Agricultural Price Forecasting
+
+Machine Learning for agricultural market prediction.
+
+[![Explore](https://img.shields.io/badge/Explore_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rishavj10264/Agricultural-Market-Price-Forecasting-System)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 📚 Transactional Library Management System
+
+Java + JDBC based database management project.
+
+[![Explore](https://img.shields.io/badge/Explore_Project-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/rishavj10264/Design-and-Implementation-of-a-Transactional-Library-Management-System-using-JDBC)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishavj10264&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishavj10264&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavj10264&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavj10264&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=rishavj10264&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=rishavj10264&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishavj10264&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rishavj10264&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🌌 My Contribution Universe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavj10264&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishavj10264&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://github.com/rishavj10264">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:rishavj10264@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+### 💡 "Dream Big. Code Smart. Build Intelligent."
 
-<div align="center">
+**⭐ Thanks for exploring my digital universe!**
 
-### 💙 "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my GitHub profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4158D0,100:7B2FF7&height=100&section=footer"/>
 
 </div>
